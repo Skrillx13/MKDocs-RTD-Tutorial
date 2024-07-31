@@ -1,0 +1,27 @@
+# Site credentials
+site_name: MKDocs-RTD-Tutorial
+site_author: Skrillx
+site_description: >-
+  A "How To" Guide for MKDocs + Read The Docs hosting
+
+# Repository
+repo_name: GitHub
+repo_url: https://github.com/Skrillx13/MKDocs-RTD-Tutorial
+
+# Copyright
+copyright: |
+  &copy; 2024 <a href="https://github.com/Skrillx13/MKDocs-RTD_Tutorial"  target="_blank" rel="noopener">MKDocs-RTD-Tutorial</a> | Made By <a href='https://beacons.ai/skrillx' target='_blank' class='cauthor'>Skrillx</a> | Hosted on <a href='https://about.readthedocs.com/?ref=readthedocs.com' target='_blank' class='cauthor'>ReadTheDocs</a>
+
+# Configuration
+theme:
+  name: readthedocs
+
+# Extensions
+markdown_extensions:
+  - admonition
+
+# Navigation Tree
+nav:
+  - Getting Started:
+    - Installation: gettingstarted/installation.md
+    - Project Creation: gettingstarted/projectcreate.md
