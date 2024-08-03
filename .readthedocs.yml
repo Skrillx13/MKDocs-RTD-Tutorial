@@ -4,9 +4,6 @@ version: 2
 # OS, Phyton, and Others
 build:
   os: ubuntu-22.04
-  atp_packages: 
-   - libclang
-   - cmake
   tools:
     python: "3.12"
 
