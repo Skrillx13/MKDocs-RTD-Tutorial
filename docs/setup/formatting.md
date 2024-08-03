@@ -1,3 +1,3 @@
 # Formatting
 
-This Section is a WIP
+MKDocs uses Markdown Formatting to 

@@ -20,7 +20,7 @@ Everything showcased here can be easily obtained for free, even the hosting. Pai
 
 ## Get started quickly
 
-IF you wish to jump straight into the content, the section "Getting Started" contaisn everything you need to know, and how to create a MKDocs site within an hour. For more extensive Documentation, you are welcome to check out the other sections
+IF you wish to jump straight into the content, the section "Getting Started" contaisn everything you need to know, and how to create a MKDocs site within an hour. For more extensive Documentation, you are welcome to check out the other sections.
 
 ## Contents
 
