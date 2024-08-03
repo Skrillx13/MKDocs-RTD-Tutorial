@@ -17,6 +17,10 @@ theme:
   name: readthedocs
   logo: assets/images/rtdicon.svg
 
+# plugins
+plugins:
+  - search
+
 # Extensions
 markdown_extensions:
   - admonition
@@ -32,4 +36,4 @@ nav:
   - Technical Details:
     - RTD File overview: technicaldetails/fileoverview.md
   - Extras/Others:
-    - Home: others/index.md
+    - Extras/Others: others/index.md
