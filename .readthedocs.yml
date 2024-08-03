@@ -1,20 +1,14 @@
-# Versioning
 version: 2
 
- # OS, Phyton, and Others
 build:
-   os: ubuntu-22.04
-   atp_packages:
-    - libclang
-    - cmake
-   tools:
-     python: "3.12"
+  os: ubuntu-22.04
+  tools:
+    python: "3.10"
 
-# MKDocs
 mkdocs:
-   configuration: mkdocs.yml
+  configuration: mkdocs.yml
 
-# Phyton requirements
+# Optionally declare the Python requirements required to build your docs
 python:
    install:
-   - requirements: docs/requirements.txt 
+   - requirements: docs/requirements.txt
