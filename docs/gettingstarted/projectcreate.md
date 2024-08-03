@@ -16,4 +16,18 @@ This makes your MKDocs project serve on a Local Host project at http://127.0.0.1
 
 First, you want to edit the mkdocs.yml folder ```mkdocs.yml```, and change the site name to whatever you wish. Next, we can install a theme onto MKDocs. This project currently has the [ReadTheDocs](https://sphinx-rtd-theme.readthedocs.io/en/stable/) theme in use, but another good one is [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/).
 
-From there, we can start adding a navigation tree.
+From there, we can start adding more configuration.
+
+### Linking a GitHub repository
+
+Adding the following code to ```mkdocs.yml``` will allow us to link a GitHub repository to this Documentation. It will generate as a text saying "Edit on GitHub", and when clicked will bring users to the GitHub repository that you linked.
+
+    repo_name: GitHub
+    repo_url: https://github.com/Skrillx13/MKDocs-RTD-Tutorial
+
+Be sure to replace the ```repo_url``` with the repository link of your choice.
+
+!!! tip
+
+    You can look at other MKDocs projects to get inspiration for configuration. Don't steal code though!
+

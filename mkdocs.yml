@@ -11,6 +11,7 @@ repo_url: https://github.com/Skrillx13/MKDocs-RTD-Tutorial
 # Copyright
 copyright: |
   &copy; 2024 <a href="https://github.com/Skrillx13/MKDocs-RTD_Tutorial"  target="_blank" rel="noopener">MKDocs-RTD-Tutorial</a> | Made By <a href='https://beacons.ai/skrillx' target='_blank' class='cauthor'>Skrillx</a>
+
 # Configuration
 theme:
   name: readthedocs
@@ -25,5 +26,10 @@ nav:
   - Getting Started:
     - Installation: gettingstarted/installation.md
     - Project Creation: gettingstarted/projectcreate.md
+    - Deploying to RTD: gettingstarted/deploytortd.md
   - MKDocs Setup:
     - Formatting: setup/formatting.md
+  - Technical Details:
+    - RTD File overview: technicaldetails/fileoverview.md
+  - Extras/Others:
+    - Home: others/index.md

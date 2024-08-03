@@ -18,10 +18,19 @@ Documentation built for the community, meaning anyone is welcome to contribute. 
 
 Everything showcased here can be easily obtained for free, even the hosting. Paid alternatives are also available, but the free ones will work just fine.
 
+## Get started quickly
+
+IF you wish to jump straight into the content, the section "Getting Started" contaisn everything you need to know, and how to create a MKDocs site within an hour. For more extensive Documentation, you are welcome to check out the other sections
+
 ## Contents
 
  - [Getting Started](gettingstarted/installation.md)
     - [Installation](gettingstarted/installation.md)
     - [Project Creation](gettingstarted/projectcreate.md)
+    - [Deploying to RTD](gettingstarted/deploytortd.md)
+- [MKDocs Setup](setup/formatting.md)
+    - [Formatting](setup/formatting.md)
 
 Happy documenting!
+
+If any help is required, you can look at this Documentation's Repository, and look at base code for examples. Don't steal code though.

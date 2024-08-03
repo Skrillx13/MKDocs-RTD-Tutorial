@@ -17,9 +17,14 @@ Ensure you have the following mentioned below to start installing MKDocs:
 
 First, make a GitHub repository. Name it something appropiate. For the settings, you will want to set the .gitignore template to Phyton. Choose a license of your choice, and enable the project with a README.md, and create.
 
-Next, click on the "Code" button on your GitHub repository, and select SSH. Copy the SSH key. Then, open up your command line (Termianl if you are using Apple Silicon), and type:
+Next, click on the "Code" button on your GitHub repository, and select SSH. Copy the SSH key. Then, open up your command line (Terminal if you are using Apple Silicon), and type:
 
     git clone (Paste SSH key here)
+
+Then, we need to CD into the Project, which can be done with the command:
+
+    cd (GitHub repository name)
+
 
 # Command Line
 
@@ -40,6 +45,10 @@ And then type:
     code .
 
 To open up Visual Studio Code
+
+!!! success
+
+    [How to create stunning code documentation with Material for MKDocs](https://www.youtube.com/watch?v=Q-YA_dA8C20). You can follow this guide for the installation part, just be sure to run ```pip install mkdocs``` instead of installing Material for MKDocs.
 
 !!! tip
 
