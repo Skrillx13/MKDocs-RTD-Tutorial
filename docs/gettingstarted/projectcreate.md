@@ -14,7 +14,14 @@ This makes your MKDocs project serve on a Local Host project at http://127.0.0.1
 
 ## Configuration
 
+### Theme Installation
+
 First, you want to edit the mkdocs.yml folder ```mkdocs.yml```, and change the site name to whatever you wish. Next, we can install a theme onto MKDocs. This project currently has the [ReadTheDocs](https://sphinx-rtd-theme.readthedocs.io/en/stable/) theme in use, but another good one is [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/).
+
+To install a theme, you just need to add the following into ```mkdocs.yml```. This code adds to ReadTheDocs theme, but you can also add other themes by referring to their documentation.
+
+    theme:
+        name: readthedocs
 
 From there, we can start adding more configuration.
 
@@ -27,7 +34,4 @@ Adding the following code to ```mkdocs.yml``` will allow us to link a GitHub rep
 
 Be sure to replace the ```repo_url``` with the repository link of your choice.
 
-!!! tip
-
-    You can look at other MKDocs projects to get inspiration for configuration. Don't steal code though!
-
+You have now installed the ReadTheDocs theme onto your Documentation, and can now deploy a very basic project to ReadTheDocs.

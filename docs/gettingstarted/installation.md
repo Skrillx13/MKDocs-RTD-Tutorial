@@ -6,7 +6,7 @@ Ensure you have the following mentioned below to start installing MKDocs:
 
 - The Phyton Manager, [Pip](https://www.python.org/downloads/)
 - You can run GitHub commands from your command line
-- You can get access to your reposiutories SSH Key
+- You can get access to your repositories SSH Key
 - You have a text editor, prefebly [Visual Studio Code](https://code.visualstudio.com).
 
 !!! note

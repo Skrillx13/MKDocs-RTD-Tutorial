@@ -4,11 +4,11 @@ Documentation that aims to guide users through a standard way of creating Docume
 
 !!! note
     
-    There is a sister project for this, the [Spinx-RTD-Tutorial](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/index.html). If you are looking for something involving Spinx, that website is what you are looking for.
+    There is a sister project for this, the [Spinx-RTD-Tutorial](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/index.html). If you are looking for something involving Spinx and ReadTheDocs, that website is what you are looking for.
 
 **In-depth and simple**
 
-Simple explanations about the way MKDocs worms with RTD, allowing for easier user access without a sharp learning curve.
+Simple explanations about the way MKDocs works with RTD, allowing for easier user access without a sharp learning curve.
 
 **Open Source**
 
@@ -20,7 +20,7 @@ Everything showcased here can be easily obtained for free, even the hosting. Pai
 
 ## Get started quickly
 
-IF you wish to jump straight into the content, the section "Getting Started" contaisn everything you need to know, and how to create a MKDocs site within an hour. For more extensive Documentation, you are welcome to check out the other sections.
+If you wish to jump straight into the content, the section "Getting Started" contains everything you need to know, and how to create a MKDocs site within an hour. For more extensive Documentation, you are welcome to check out the other sections.
 
 ## Contents
 
