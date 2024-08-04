@@ -79,4 +79,12 @@ Project description you may add a brief overview of your project here.
 
 ## Deploying
 
-This sub-section is a WIP
+After ensuring you have all the necessary files installed, you can deploy to RTD. First, you need to commit your changes.
+
+Open up your terminal in your text editor, and ensure the terminal is on zhs. Enter ```git add .```, followed by:
+
+    git commit -m $'Insert appropiate commit message'
+
+And finally, enter ```git push origin main``` to send the changes to the GitHub repository.
+
+Navigate to the RTD Project Dashboard, and select the option to add a Project. Choose the appropiate GitHub repository, and enter your desired configurations. From there, your project should be building. Click the "View Docs" option, and you should be able to see your docs live.

@@ -31,9 +31,13 @@ nav:
     - Installation: gettingstarted/installation.md
     - Project Creation: gettingstarted/projectcreate.md
     - Deploying to RTD: gettingstarted/deploytortd.md
-  - MKDocs Setup:
-    - Formatting: setup/formatting.md
+  - RTD Setup:
+    - Versioning: setup/versioning.md
+    - Downloads: setup/downloads.md
   - Technical Details:
     - RTD File overview: technicaldetails/fileoverview.md
-  - Extras/Others:
-    - Extras/Others: others/index.md
+  - Miscellaneous:
+    - others/index.md
+    - Project Rules: others/projectrules.md
+    - Contributing: others/contributing.md
+    - LICENSE: others/license.md

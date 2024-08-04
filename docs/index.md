@@ -28,8 +28,14 @@ If you wish to jump straight into the content, the section "Getting Started" con
     - [Installation](gettingstarted/installation.md)
     - [Project Creation](gettingstarted/projectcreate.md)
     - [Deploying to RTD](gettingstarted/deploytortd.md)
-- [MKDocs Setup](setup/formatting.md)
-    - [Formatting](setup/formatting.md)
+- [RTD Setup](setup/versioning.md)
+    - [Versioning](setup/versioning.md)
+- [Tecnical Details](technicaldetails/fileoverview.md)
+    - [File Overview](technicaldetails/fileoverview.md)
+- [Miscellaneous](others/index.md)
+    - [Project Rules](others/projectrules.md)
+    - [Contribution](others/contributing.md)
+    - [LICENSE](others/license.md)
 
 Happy documenting!
 
